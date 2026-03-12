@@ -42,7 +42,9 @@ Spectrum monitoring, cognitive radio communication, wireless network optimizatio
 👨‍💻 Author
 
 Madhav Krishna K
+
 B.Tech Electronics and Communication Engineering
+
 KTU University
 
 🔗 LinkedIn
